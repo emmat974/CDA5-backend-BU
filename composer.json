@@ -1,0 +1,17 @@
+{
+    "name": "tonyemma/bu",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Emma Tony",
+            "email": "emma.tony.georges@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
